@@ -1,0 +1,43 @@
+_repo: Jasper_43128
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammond, Gertrude Demain
+    aliases:
+    - Hammond, G. M. D.
+    - Hammond, G. Demain
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '34646'
+    url: http://www.gutenberg.org/2009/agents/34646
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: Jasper
+url: http://www.gutenberg.org/ebooks/43128
